@@ -1,16 +1,19 @@
 
 # Movie Recommendation using Cosine Similarity
 
+
 <img src="images/Best-Romantic-Movies-on-Netflix.jpg" alt="workflow" width="70%">
 
 The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. This is achieved through predictive modeling and heuristics with the data available.
+
 ### All about the project
 It is a simple Movie Recommendation application that suggests similiar movies based on the choice. The script required basic exploratory data analysis, text vectoriztion, TFIDF, and simple cosine Similarity algorithm. The Strem lit app is hosted on Heroku platform.
 
 * [Click here to run it live on server](https://movie-recommendation12.herokuapp.com/)
 
 A web server will open similar to the picture bellow
-[Link](https://github.com/Sagor-Saha/Movie_recommendation_using_cosine_similarity/blob/main/images/Best-Romantic-Movies-on-Netflix.jpg)
+
+<img src="images/sdsadasdasd.PNG" alt="workflow" width="70%">
 
 # Dataset has been used:
 
